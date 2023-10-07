@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-using-Artificial-Neural-Networks-ANNs-and-XGBoost
+# Credit-Card-Fraud-Detection
 
 Overview
 
